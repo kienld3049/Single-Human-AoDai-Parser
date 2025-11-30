@@ -282,7 +282,6 @@ pip install onnxruntime-gpu  # or onnxruntime for CPU
 - [Segment Anything](https://github.com/facebookresearch/segment-anything)
 - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO)
 - [DWPose](https://github.com/IDEA-Research/DWPose)
-- [ControlNet](https://github.com/lllyasviel/ControlNet)
 
 ## 📝 Notes
 
